@@ -1,0 +1,2 @@
+# javascr
+To practice js
